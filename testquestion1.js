@@ -15,8 +15,7 @@ function setup() {
     ball.bounciness = 1; 
     ball.collider = "dynamic";
 
-    ball.x = mouseX;
-    ball.y = mouseY;
+    
 
     
 
